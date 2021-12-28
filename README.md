@@ -14,19 +14,21 @@ This essay **will** show readers that the quest for decentralized digital money 
 
 ## Progress
 
-COMPLETE  
+**COMPLETE**  
 Chapter 1 - Introduction  
 Chapter 2 - Setting the Stage for Bitcoin  
 Chapter 3 - The Cypherpunks  
 Chapter 4 - Early Attempts at Digital Currency  
 ___
-INCOMPLETE  
-_Chapter 5 - Hello, World  
+**IN PROGRESS**  
+Chapter 5 - Hello, World 
+___ 
+**INCOMPLETE**  
 Chapter 6 - Growing the Community  
 Chapter 7 - The Post-Satoshi World  
 Chapter 8 - Other Blockchains and Bitcoin Maximalism  
 Chapter 9 - The Great Schism  
-Chapter 10 - The Bitcoin Future_  
+Chapter 10 - The Bitcoin Future 
 
 ## Contributing to the story
 
