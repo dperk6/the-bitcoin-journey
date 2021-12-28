@@ -15,15 +15,20 @@ This essay **will** show readers that the quest for decentralized digital money 
 ## Progress
 
 **COMPLETE**  
+
 Chapter 1 - Introduction  
 Chapter 2 - Setting the Stage for Bitcoin  
 Chapter 3 - The Cypherpunks  
 Chapter 4 - Early Attempts at Digital Currency  
 ___
+
 **IN PROGRESS**  
+
 Chapter 5 - Hello, World 
 ___ 
+
 **INCOMPLETE**  
+
 Chapter 6 - Growing the Community  
 Chapter 7 - The Post-Satoshi World  
 Chapter 8 - Other Blockchains and Bitcoin Maximalism  
@@ -39,4 +44,8 @@ Here are the rules:
 - The scaling debate got quite heated, ultimately culminating in the BTC-BCH chain split. I have tried very hard to present each side of the debate fairly. There are many valid points on each side of the debate, please respect that fact.
 - Related to the point above, this essay **will** focus on Bitcoin itself, not Bitcoin Cash or Bitcoin SV. Please do not make contributions that focus unnecessarily on other networks unless it is in relation to the scaling debate and how it all played out.
 - Likewise, we will discuss other blockchain networks _only_ from the perspective of the Bitcoin development process. If you are a Bitcoin maximalist, or a fan of Namecoin, Litecoin, Dogecoin, or Ethereum, please do not express as much in your contributions.
-- This essay will not speculate about Satoshi Nakamoto's identity. Please don't focus on it in any contributions. It is of no importance beyond the intrigue. There is plenty of literature about that elsewhere if you are so inclined.
+- This essay will not speculate about Satoshi Nakamoto's identity. Please don't focus on it in any contributions. It is of no importance. There is plenty of literature about that elsewhere if you are so inclined.
+
+## About the Author
+
+Just a guy who is fascinated by Bitcoin, Bitcoin history, and Bitcoin's future.
