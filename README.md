@@ -45,6 +45,7 @@ Here are the rules:
 - Related to the point above, this essay **will** focus on Bitcoin itself, not Bitcoin Cash or Bitcoin SV. Please do not make contributions that focus unnecessarily on other networks unless it is in relation to the scaling debate and how it all played out.
 - Likewise, we will discuss other blockchain networks _only_ from the perspective of the Bitcoin development process. If you are a Bitcoin maximalist, or a fan of Namecoin, Litecoin, Dogecoin, or Ethereum, please do not express as much in your contributions.
 - This essay will not speculate about Satoshi Nakamoto's identity. Please don't focus on it in any contributions. It is of no importance. There is plenty of literature about that elsewhere if you are so inclined.
+- Please refer to Satoshi as "they" to leave open all possibilities about gender identity and whether Satoshi was a group or an individual. Given this is likely to trigger some people, it should be noted it is not a social statement one way or another. It is based on the unarguable fact that the correct pronouns are unknown.
 
 ## About the Author
 
