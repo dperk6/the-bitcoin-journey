@@ -40,6 +40,8 @@ The repercussions are great, nonetheless. Matt Blaze, an academic researcher in 
 
 The late 1980s and early 1990s were a hotbed for internet technology development and privacy protocols. It's not hard to see why. The internet was young, its users were technically savvy and forward-thinking with incredible insight, there was public debate around digital freedom and encryption, and the tools were just being developed and released. There was also a revival of the "small-government" libertarian mindset from Ronald Reagan's presidency, although it is difficult to say how much of an influence that was. Certainly, a high number of cypherpunk mailing list members profess to be libertarians, however the list was far more politically diverse than that and even still, most of the political statements made do not fit neatly into either category. There is a wealth of fascinating discussions in the mailing list records, and the foresight many of the participants show is uncanny.
 
+## Section References
+
 <sup>1</sup> According to a _Wired Magazine_ article, [retrieved from wired.com here.](https://www.wired.com/1999/04/crypto/)  
 <sup>2</sup> Info taken from GCHQ government site dedicated to James Ellis, [retrieved from here.](https://www.gchq.gov.uk/person/james-ellis)  
 <sup>3</sup> _Libertaria_ is a term used by Timothy May to describe his vision for the free internet. [See more here.](https://www.activism.net/cypherpunk/libertaria.html)  

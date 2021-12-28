@@ -50,6 +50,8 @@ Eric ends his manifesto by arguing against any regulation on cryptography and ca
 
 The focus on the Cypherpunks may give the impression that Satoshi belonged to the group (in the very contained sense of being part of the mailing list). There is no evidence that Satoshi was on the mailing list, other than the fact that so many of the discussions, debates, ideas, and theories were present in Satoshi's design of a decentralized digital cash system. The purpose of this section is to show the continuous, ongoing development of the underpinnings of what would one day become Bitcoin.
 
+## Section References
+
 <sup>1</sup> As evidenced by Timothy May's citations in _Crypto Anarchy and Virtual Communities_ in 1994. [Retrieved from mit.edu here.](https://groups.csail.mit.edu/mac/classes/6.805/articles/crypto/cypherpunks/may-virtual-comm.html)  
 <sup>2</sup> From Rosie Cross' 1995 feature of Jude Millhon, titled _Modem Grrrl_ and dated 02/01/1995. [Retrieved from wired.com archive here.](https://www.wired.com/1995/02/st-jude/)  
 <sup>3</sup> Taken from Tim May's Cyphernomicon, [retrieved from archive.org here.](https://ia600208.us.archive.org/10/items/cyphernomicon/cyphernomicon.txt)  

@@ -92,7 +92,9 @@ Once Bitcoin came out, it became obvious that Bitcoin was a superior architectur
 
 ## Opencoin
 
-Opencoin is a "digital cash" program that attempted to implement the Chaumian idea of "blind signatures" discussed previously. It was also publicly released in 2008.<sup>24</sup> One of the founders of the project, Joerg Baach, conversed briefly with Satoshi on the P2P Research forum.<sup>25</sup> According to the GitHub repository, the final commit was made in 2015.<sup>26</sup>  
+Opencoin is a "digital cash" program that attempted to implement the Chaumian idea of "blind signatures" discussed previously. It was also publicly released in 2008.<sup>24</sup> One of the founders of the project, Joerg Baach, conversed briefly with Satoshi on the P2P Research forum.<sup>25</sup> According to the GitHub repository, the final commit was made in 2015.<sup>26</sup>
+
+## Section References
 
 <sup>1</sup> _Adam Back on Satoshi Emails, Privacy Concerns, and Bitcoin's Early Days_, Cassio Gussan, January 20, 2020. [Retrieved online from cointelegraph.com.](https://cointelegraph.com/news/adam-back-on-satoshi-emails-privacy-concerns-and-bitcoins-early-days)  
 <sup>2</sup> _How Digicash Blew Everything_. [Retrieved from cryptome.org.](https://cryptome.org/jya/digicrash.htm)  

@@ -16,5 +16,7 @@ So what work exactly did Satoshi Nakamoto leverage to create Bitcoin? How far ha
 
 -- Satoshi Nakamoto (February 15, 2009)<sup>2</sup>
 
+## Section References
+
 <sup>1</sup> Satoshi's original post on _The Cryptography Mailing List_ from metzdowd.com, [retrieved from the Nakamoto Institute here](https://satoshi.nakamotoinstitute.org/emails/cryptography/1/).  
 <sup>2</sup> Post by Satoshi in the P2P Foundation forum. [Retrieved from the Nakamoto Institute here](https://satoshi.nakamotoinstitute.org/posts/p2pfoundation/threads/1/)
